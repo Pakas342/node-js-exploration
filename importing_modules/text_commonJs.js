@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs")
 const file_path = "hello.txt";
 let data
 try {
